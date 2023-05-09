@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <g fill-rule="nonzero" fill="none">
+        <path d="M9.8 0C4.413 0 0 4.504 0 10s4.414 10 9.8 10c5.385 0 9.799-4.504 9.799-10s-4.414-10-9.8-10z" fill="#FDBF00"/>
+        <path d="M19.599 10c0 5.496-4.414 10-9.8 10V0c5.386 0 9.8 4.504 9.8 10z" fill="#FF9100"/>
+        <path d="M9.8 2.383c-4.112 0-7.465 3.422-7.465 7.617s3.353 7.617 7.464 7.617c4.112 0 7.465-3.422 7.465-7.617s-3.353-7.617-7.465-7.617z" fill="#FFDA2D"/>
+        <path d="M17.264 10c0 4.195-3.353 7.617-7.465 7.617V2.383c4.112 0 7.465 3.422 7.465 7.617z" fill="#FDBF00"/>
+        <text fill="#F78C00" font-family="Montserrat-Bold, Montserrat" font-size="11" font-weight="bold">
+                                <tspan x="6" y="14">$</tspan>
+                            </text>
+    </g>
+</svg>
