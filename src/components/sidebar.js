@@ -6,16 +6,16 @@ const Sidebar = () => {
     {
       id: 1,
       name: "My surveys",
-      link: "/",
-      iconSrcActive: "home/my_surveys@2x.png",
-      iconSrcInactive: "home/my_surveys_inactive@2x.png",
+      link: "/my-survey",
+      iconSrcActive: "images/my_surveys@2x.png",
+      iconSrcInactive: "images/my_surveys_inactive@2x.png",
     },
     {
       id: 2,
       name: "Requested surveys",
       link: "/requested-surveys",
-      iconSrcActive: "home/requested_surveys@2x.png",
-      iconSrcInactive: "home/requested_surveys_inactive@2x.png",
+      iconSrcActive: "images/requested_surveys@2x.png",
+      iconSrcInactive: "images/requested_surveys_inactive@2x.png",
     },
   ];
   return (
